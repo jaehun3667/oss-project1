@@ -1,8 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 
-in main()
+int main()
 {
-  printf("Open Source Sw Project\n);
+  printf("Open Source Sw Project\n");
   printf("first Git Hub Tranning\n");
   printf("hello sunmoon");
   return 0;
