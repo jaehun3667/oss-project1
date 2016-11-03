@@ -3,6 +3,6 @@
 int main()
 {
   printf("Fist OSS Code");
-  printf("Third OSS Code");
+  printf("Second OSS Code");
   return 0;
 }
